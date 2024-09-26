@@ -7,3 +7,6 @@ Changelog
 
 9/26/24:
 Updated look with CSS Box guidelines per project, added borders centered text and some cute additions to the list tinkering with the hex code for the icons
+
+Also updated the recipe pages to match the theming of the main page to help create consistency
+
