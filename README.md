@@ -5,6 +5,10 @@ This project is designed to help build a brutalist style recipe website to bette
 
 Changelog
 
+ 3/30/25:
+ 
+ Updated layout, added more recipes. Background added but will need to solidify to appear on edges instead of full page on next revision.
+
 9/26/24:
 Updated look with CSS Box guidelines per project, added borders centered text and some cute additions to the list tinkering with the hex code for the icons
 
