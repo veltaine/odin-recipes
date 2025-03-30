@@ -4,23 +4,22 @@ body {
 
 .mainTitle, .title {
     margin: 25px;
-    border: 10px solid rgb(77, 134, 219);
+    border: 1px solid rgb(86, 86, 86);
     text-align: center;
+    background-color: rgb(131, 210, 210);
 }
 
 .recipesList {
-    padding: 20px;
-    margin: 50px;
     font-family: Arial, Helvetica, sans-serif;
-    font-size: large;
-    border: 15px ridge rgb(141, 154, 255);
+    border: 15px ridge rgb(80, 212, 179);
     text-align: center;
-
+    background-color: #fff5f5;
 }
 
 
 ul {
     list-style: none;
+    background: none;
 }
 
 recipes > li {
@@ -36,9 +35,14 @@ li > a{
 }
 
 .photo {
-    height: 100%;
-    width: 100%;
-    max-width: auto;
-    max-height: auto;
+    max-width: 50%;
     border: 3px solid purple;
+
+}
+
+.recipe-photo {
+display: flex;
+align-items: center;
+justify-content: center;
+height: 100%;
 }

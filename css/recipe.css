@@ -1,0 +1,14 @@
+body {
+    background-image: url("/photos/backgroundphoto.jpg");
+    background-size: cover;
+}
+
+body {
+    margin: 4rem;
+}
+
+ul{
+    background-color: rgb(147, 147, 147);
+    padding: 1rem;
+    border-radius: 10px;
+}
