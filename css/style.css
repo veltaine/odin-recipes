@@ -28,6 +28,10 @@ recipes > li {
     background-color: rgb(226, 239, 237);
 }
 
+li {
+    margin: 10px 0;
+}
+
 li > a{
     color: rgb(13, 35, 146);
     font-weight: 600;
