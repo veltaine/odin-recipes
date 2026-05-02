@@ -7,7 +7,9 @@ body {
     margin: 4rem;
 }
 
-ul{
+
+
+#textbox {
     background-color: rgb(147, 147, 147);
     padding: 1rem;
     border-radius: 10px;
