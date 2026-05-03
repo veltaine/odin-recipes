@@ -5,6 +5,13 @@ This project is designed to help build a brutalist style recipe website to bette
 
 Changelog
 
+5.3.26:
+
+Added several new recipes, added a carousel with more sripting to make the page more enjoyable to navigate
+
+Wishlist: Learn how to update the template so I can add the carousel to all html sheets and update dynamically.
+
+
  3/30/25:
  
  Updated layout, added more recipes. Background added but will need to solidify to appear on edges instead of full page on next revision.
